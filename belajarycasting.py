@@ -45,7 +45,7 @@ print(" ")
 
 print("=========dari 'STRING' ke sisanya =========================")
 print("")
-data_str = "10";
+data_str = "10  ";
 print("data = ",data_str, "type = " , type(data_str))
 
 data_int = int(data_str) # akan di bulat kan ke bawah 
